@@ -1,0 +1,62 @@
+{
+	"id":"player",
+
+	"flags":[
+		{
+			"logo":"graphics/factions/custom/player_wolf_flag.png",
+			"crest":"graphics/factions/custom/player_wolf_crest.png"
+		},
+		{
+			"logo":"graphics/factions/custom/player_united_flag.png",
+			"crest":"graphics/factions/custom/player_united_crest.png"
+		},
+		{
+			"logo":"graphics/factions/custom/player_gear_flag.png",
+			"crest":"graphics/factions/custom/player_gear_crest.png"
+		},
+		{
+			"logo":"graphics/factions/custom/player_eagle_flag.png",
+			"crest":"graphics/factions/custom/player_eagle_crest.png"
+		},
+		{
+			"logo":"graphics/factions/custom/player_pentagon_flag.png",
+			"crest":"graphics/factions/custom/player_pentagon_crest.png"
+		},
+		{
+			"logo":"graphics/factions/custom/player_earth_flag.png",
+			"crest":"graphics/factions/custom/player_earth_crest.png"
+		},
+		{
+			"logo":"graphics/factions/custom/player_hands_flag.png",
+			"crest":"graphics/factions/custom/player_hands_crest.png"
+		},
+	],
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
