@@ -6,7 +6,7 @@
       "type": "string",
       "defaultValue": "default",
       "options": [
-        { "value": "default", "label": "Default" },
+        { "value": "default", "label": "Original" },
         { "value": "alt", "label": "Alternative" }
       ]
     }

@@ -1,0 +1,3 @@
+fieldID,fieldName,fieldType,defaultValue,secondaryValue,fieldDescription,minValue,maxValue,tab
+hegemonyHeader,Faction Configuration,Header,Hegemony,,,,,General
+hegemonyFlag,Hegemony Flag Appearance,Radio,default,"default, alt","Choose the flag appearance for the Hegemony faction. Choosing [default] uses the original flag designed by Zer0morph, While [Alt] uses the alternative version, which is more faithful to the vanilla design..",,,General
