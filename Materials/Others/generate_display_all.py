@@ -12,6 +12,7 @@ cols = 5  # Nombre de colonnes
 # Liste noire (noms de fichiers sans extension)
 blacklist = {
     'hegemony',
+    'hegemony_alt',
     'persean_league',
     'luddic_church',
     'luddic_path',
@@ -21,6 +22,13 @@ blacklist = {
     'sindrian_diktat',
 }
 
+# Lister et trier les png hors blacklist et ne contenant pas 'crest'
+all_pngs = sorted([
+    f for f in os.listdir(png_dir)
+    if (f.lower().endswith('.png') 
+        and os.path.splitext(f)[0] not in blacklist 
+        and 'crest' not in f.lower())  # Nouvelle condition d'exclusion
+])
 
 # Largeur du template (à ajuster si besoin)
 TEMPLATE_WIDTH = 1353
