@@ -15,6 +15,6 @@ Zer0morph's original flags remain unchanged, but this new version features new m
 W.I.P :
 - PAGMS : correcting incorrect path for sfc_player and removed unused flags
 - RFC : permission to add 3 flags : rfc_mechab_flag.png (version prior to 1.2.0), rfc_baryon_flag.png (version prior to 1.2.0), rfc_owl_flag.png
-- Added BUNS
+- Added support for Buns - flag pack
 - Minor shadow/highlights adjustments on various flags
 - Waiting for permission for certains mods, mainly under no derivative licenses
